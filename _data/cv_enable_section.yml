@@ -5,6 +5,6 @@ group_projects: true
 individual_projects: true
 interests: true
 languages: true
-profiles: true
-skills: true
-volunteers: true
+profiles: false
+skills: false
+volunteers: false
